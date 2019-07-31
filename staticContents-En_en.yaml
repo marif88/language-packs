@@ -1,0 +1,25 @@
+app: 
+ header: 
+  tittle: FST
+  hellouser: ""
+  contactus: "CONTACT US"
+  iommanual: "IOM MANUAL"
+  logout: LOGOUT
+ navbar: 
+  home: Home
+  customerportal: "Customer portal"
+  fleetmanagement: "Fleet management"
+  serviceplans: "Service plans"
+  alarms: Alarms
+  remoteview: "Remote view"
+  loactionfilter: "Location filter"
+  settings: Settings
+ sidenav: 
+  useradmin: "User Admin"
+  fstaccess: "FST Access"
+  serviceadvisor: "Service Advisor"
+  controlpanel: "Control Panel"
+  datalog: "Data Log"
+ common: 
+  text_off: off
+  text_on: on
